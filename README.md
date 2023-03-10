@@ -10,7 +10,7 @@
 - **Name:** Osama Salman
 - **Address:** _Belarus- Minsk_
 - **Email:** *osama.salman.info@gmail.com*
-- **Discord:** Osama Salman(@Osama-arch)
+- [**GitHub**](https://github.com/Osama-arch)
 - [**linkedin**](https://www.linkedin.com/in/osama-salman-577926166) 
 
 
@@ -62,6 +62,10 @@
   ##### February 19, 2023 [Link>>](https://coursera.org/share/3abc18924460c2af8dd2c0e21e00f71a)
 
 ---
+### **project example**
+##### little-lemon-restaurant-website from Meta Front-End Developer Specialization {I used React.js and pure css}: [Link>>](https://osama-arch.github.io/Pet_Story/src/main/)
+##### Pet_Story webpages from Rsschool community training {I used React.js and Sass/Scss}: [Link>>](https://osama-arch.github.io/petStory/)
+----------
 
 ### **Skills**
 
@@ -77,15 +81,22 @@
 - Computer Numerical Control(CNC)
 
 ---
-### **project example**
-##### little-lemon-restaurant-website from Meta Front-End Developer Specialization {I used React.js and pure css}: [Link>>](https://osama-arch.github.io/Pet_Story/src/main/)
-##### Pet_Story webpages from Rsschool community training {I used React.js and Sass/Scss}: [Link>>](https://osama-arch.github.io/petStory/)
-----------
+
 ### **Languages**
 - English: Intermediate
 - Russian: Fluent
 - Arabic: Native
-
+---
+- 🌱 I’m currently learning :
+- JavaScript/advanced.
+- TypeScript.
+- Redux/Redux toolkit.
+---
+👯 I’m looking to learn :
+- webGl
+- Three.js
+- node.js
+---
 <!--
 **Osama-arch/Osama-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
