@@ -1,22 +1,17 @@
 
-<div id="header" align="center">
- <img src="[https://giphy.com/embed/3o7WTDeh30YVHhuR4Q](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGM5MGYwOTFlYzVjNjI0ZmM2NjM0NDYyZDFlNjE2Y2RkMzM5ZiZjdD1n/3o7WTDeh30YVHhuR4Q/giphy.gif)" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
-</div>
+<h1 align="center">Hi there 👋!! </h1>
 
-<h2 align="center">Hi there 👋!! I am UI/React Developer, trained in HTML5, CSS3, and JavaScript,an architect-engineer with strong computational design skills, seeking for my first job in IT.</h2>
 
----
-
-### Junior FrontEnd Developer
+<h3 align="center">I am a Junior UI/React Developer, trained in HTML5, CSS3, and JavaScript,an architect-engineer with strong computational design skills, seeking for my first job in IT.</h3>
 
 ---
 
 ### **Contact information**
-
+- **Name:** Osama Salman
 - **Address:** _Belarus- Minsk_
 - **Email:** *osama.salman.info@gmail.com*
 - **Discord:** Osama Salman(@Osama-arch)
-- [**linkedin**](https://www.linkedin.com/in/osama-salman-577926166) - [**Behance** ](https://www.behance.net/sosama5352a78)
+- [**linkedin**](https://www.linkedin.com/in/osama-salman-577926166) 
 
 
 ---
@@ -83,7 +78,7 @@
 
 ---
 ### **project example**
-##### little-lemon-restaurant-website from Meta Front-End Developer Specialization {I used Rect.js and pure css}: [Link>>](https://osama-arch.github.io/Pet_Story/src/main/)
+##### little-lemon-restaurant-website from Meta Front-End Developer Specialization {I used React.js and pure css}: [Link>>](https://osama-arch.github.io/Pet_Story/src/main/)
 ##### Pet_Story webpages from Rsschool community training {I used React.js and Sass/Scss}: [Link>>](https://osama-arch.github.io/petStory/)
 ----------
 ### **Languages**
