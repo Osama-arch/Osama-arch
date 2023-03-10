@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
- <img src="https://giphy.com/embed/3o7WTDeh30YVHhuR4Q" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
+ <img src="[https://giphy.com/embed/3o7WTDeh30YVHhuR4Q](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGM5MGYwOTFlYzVjNjI0ZmM2NjM0NDYyZDFlNjE2Y2RkMzM5ZiZjdD1n/3o7WTDeh30YVHhuR4Q/giphy.gif)" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
 
 <h2 align="center">Hi there 👋!! I am UI/React Developer, trained in HTML5, CSS3, and JavaScript,an architect-engineer with strong computational design skills, seeking for my first job in IT.</h2>
