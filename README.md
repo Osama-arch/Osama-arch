@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
- <iframe src="https://giphy.com/embed/3o7WTDeh30YVHhuR4Q" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/creative-coding-cinder-libcinder-3o7WTDeh30YVHhuR4Q">via GIPHY</a></p>
+ <img src="https://giphy.com/embed/3o7WTDeh30YVHhuR4Q" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
 
 <h2 align="center">Hi there 👋!! I am UI/React Developer, trained in HTML5, CSS3, and JavaScript,an architect-engineer with strong computational design skills, seeking for my first job in IT.</h2>
