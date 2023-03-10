@@ -63,7 +63,7 @@
 
 ---
 ### **project example**
-##### little-lemon-restaurant-website from Meta Front-End Developer Specialization {I used React.js and pure css}: [Link>>](https://osama-arch.github.io/Pet_Story/src/main/)
+##### little-lemon-restaurant-website from Meta Front-End Developer Specialization {I used React.js and pure css}: [Link>>](https://osama-arch.github.io/LIttle_lemon_React/)
 ##### Pet_Story webpages from Rsschool community training {I used React.js and Sass/Scss}: [Link>>](https://osama-arch.github.io/petStory/)
 ----------
 
