@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋!! </h1>
 
 
-<h3 align="center">I am a Junior UI/React Developer, trained in HTML5, CSS3, and JavaScript,an architect-engineer with strong computational design skills, seeking for my first job in IT.</h3>
+<h3 align="center">I am a Junior UI/React Developer, trained in HTML5, CSS3, and JavaScript,an architect-engineer with strong computational design skills, looking for my first job in IT.</h3>
 
 ---
 
