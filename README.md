@@ -41,6 +41,7 @@
 
 ---
 ### **projects**
+##### My own website - portfolio {I used Nexts js , TypeScript and Tailwind }: [Link>>](https://osama-salman-portfolio.vercel.app/)
 ##### little-lemon-restaurant-website from Meta Front-End Developer Specialization {I used React.js and pure css}: [Link>>](https://osama-arch.github.io/LIttle_lemon_React/)
 ##### Pet_Story webpages from Rsschool community training {I used React.js and Sass/Scss}: [Link>>](https://osama-arch.github.io/petStory/)
 ##### Zonabg hosting as a freelance project {I ued HTML5,CSS3,JS}:[Link>>](https://osama-arch.github.io/ZonaBg/#hero)
