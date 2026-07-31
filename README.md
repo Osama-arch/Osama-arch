@@ -42,6 +42,6 @@ Based in Minsk, Belarus. Open to remote work.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/osama-a-salman)
+[LinkedIn](https://www.linkedin.com/in/osama-a-salman) ·
 [Email](mailto:osama.salman.info@gmail.com) ·
 [Showcase](https://github.com/Osama-arch/toolsetup-cam-showcase) .
