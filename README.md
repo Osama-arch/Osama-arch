@@ -13,11 +13,11 @@ I build tools that automate repetitive engineering workflows and connect softwar
 
 ## Selected work
 
-[Showcase](https://github.com/Osama-arch/toolsetup-cam-showcase) .
+
 
 
 ### ToolSetup
-
+ ToolSetup — CAM/CNC Workflow Automation | [Showcase](https://github.com/Osama-arch/toolsetup-cam-showcase) .
  C#/.NET add-in for automating tool-data preparation in SolidCAM and SolidWorks.
 
 **Result:** reduced processing time from approximately 15 minutes to 1 minute.
