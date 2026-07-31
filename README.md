@@ -13,6 +13,9 @@ I build tools that automate repetitive engineering workflows and connect softwar
 
 ## Selected work
 
+[Showcase](https://github.com/Osama-arch/toolsetup-cam-showcase) .
+
+
 ### ToolSetup
 
  C#/.NET add-in for automating tool-data preparation in SolidCAM and SolidWorks.
@@ -44,4 +47,3 @@ Based in Minsk, Belarus. Open to remote work.
 
 [LinkedIn](https://www.linkedin.com/in/osama-a-salman) ·
 [Email](mailto:osama.salman.info@gmail.com) ·
-[Showcase](https://github.com/Osama-arch/toolsetup-cam-showcase) .
