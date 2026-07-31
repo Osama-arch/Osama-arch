@@ -15,7 +15,7 @@ I build tools that automate repetitive engineering workflows and connect softwar
 
 ### ToolSetup
 
-A C#/.NET add-in for automating tool-data preparation in SolidCAM and SolidWorks.
+ C#/.NET add-in for automating tool-data preparation in SolidCAM and SolidWorks.
 
 **Result:** reduced processing time from approximately 15 minutes to 1 minute.
 
@@ -36,7 +36,7 @@ Web prototype for viewing CNC machine tool magazines.
 
 ## Background
 
-CAM/CNC technologist, Architectural Engineer and Candidate of Sciences (PhD) in Art Studies.
+CAM/CNC technologist, Architectural Engineer and Candidate of Sciences (PhD) in Art and Architecture Studies.
 
 Based in Minsk, Belarus. Open to remote work.
 
