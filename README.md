@@ -1,6 +1,6 @@
 # Osama Salman
 
-Junior .NET Developer with hands-on CAM/CNC production experience.
+Architecture Engineer, .NET Developer with hands-on CAM/CNC production experience.
 I build tools that automate repetitive engineering workflows and connect software with manufacturing.
 
 ## Technical focus
