@@ -39,7 +39,7 @@ Web prototype for viewing CNC machine tool magazines.
 
 ## Background
 
-CAM/CNC technologist, Architectural Engineer and Candidate of Sciences (PhD) in Art and Architecture Studies.
+CAM/CNC technologist, Architectural Engineer and Candidate of Art and Architecture Studies (PhD.).
 
 Based in Minsk, Belarus. Open to remote work.
 
